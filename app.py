@@ -430,10 +430,11 @@ with tab_student:
                 st.write("Image 'ekene.png' not found.")
         with c2:
             st.markdown("### Student Profile")
-            st.write("**Name:** [Student Name]")
-            st.write("**Student ID:** [12345678]")
-            st.write("**Department:** Data Science & Analytics")
-            st.write("**Institution:** [University Name]")
+            st.write("**Name:** Ekene Olise")
+            st.write("**Student ID:** 2303926")
+            st.write("**Department:** Information Technology with Business Intelligence")
+            st.write("School of Computing Engineering and Technology (SOCET)")
+            st.write("**Institution:** Robert Gordon University (RGU) Aberdeen Scotland UK")
 
     st.success("This project demonstrates the application of data visualization and dashboarding techniques to solve real-world business problems.")
 
